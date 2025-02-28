@@ -6,5 +6,6 @@ ASG2.0  <爱丽丝空中花园2.0>  是一款由Qian yicong自研的全新架构
 ![image](https://github.com/user-attachments/assets/13627a54-145d-4467-940e-734cd07c37dd)
 ![image](https://github.com/user-attachments/assets/776f638f-21af-455f-a721-492179e90332)
 开源“奖惩机制强化学习”技术
-![image](https://github.com/user-attachments/assets/83ef9ff9-23ed-4e7b-adfd-f9945a1f2091)
+![image](https://github.com/user-attachments/assets/93cb3459-7ecd-43fd-8820-60f32d0a0e71)
+
 
